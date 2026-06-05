@@ -1,134 +1,127 @@
-<h1 align="center">Hi 👋, I'm Keshav Prasad</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+and+Competitive+Programming" alt="Typing SVG" />
-</p>
+# Hey, I'm Keshav Prasad 👋
 
----
+### Frontend Developer · Building beautiful things for the web
 
-## 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Pixel-perfect+UI+enthusiast+🎨;React+%7C+Tailwind+%7C+Next.js+⚡;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
-🔭 Currently building **AI-Powered Mock Interview Platform**
-
-🌱 Learning **Advanced Next.js, System Design, AI Engineering & Cloud Technologies**
-
-💻 Passionate about **Full Stack Development, AI Applications, and Scalable Systems**
-
-🏆 Solved **500+ DSA Problems**
-
-🎯 Goal: Become a **Software Development Engineer (SDE)**
-
-💬 Ask me about **React, Next.js, Node.js, MongoDB, JavaScript, DSA, and AI Projects**
-
-⚡ Fun Fact: I enjoy transforming ideas into production-ready applications.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- Badges -->
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Open to Work](https://img.shields.io/badge/⚡_Open_to_Work-7F77DD?style=for-the-badge&logoColor=white)
+![Always Learning](https://img.shields.io/badge/🌱_Always_Learning-1D9E75?style=for-the-badge&logoColor=white)
+![Pixel Perfect](https://img.shields.io/badge/🎯_Pixel--Perfect_UI-D4537E?style=for-the-badge&logoColor=white)
+![Chai Powered](https://img.shields.io/badge/☕_Chai_Powered-BA7517?style=for-the-badge&logoColor=white)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+<!-- About -->
+## 🙋‍♂️ About Me
 
-### 🎤 AI Mock Interview Platform
-- AI-powered interview simulations
-- Real-time feedback and analytics
-- Speech-to-text and AI evaluation
-- Dashboard for performance tracking
+I'm a **Frontend Developer** who loves turning ideas into polished, responsive web experiences.
+I care deeply about clean code, beautiful UIs, and smooth user experiences.
+When I'm not pushing pixels, I'm probably exploring new frameworks or contributing to open source. 🚀
 
-### 📈 IPL Winner Prediction System
-- Machine Learning based prediction
-- Historical IPL data analysis
-- Interactive dashboards
-- Match outcome forecasting
-
-### 💰 Financial Recommendation System
-- Personalized investment suggestions
-- Portfolio analysis
-- Risk assessment
-- AI-powered insights
-
-### 🌍 Tourism Platform
-- Travel planning and booking
-- Interactive destination exploration
-- User reviews and blogs
-- Modern responsive UI
+- 🔭 Currently working on: **my portfolio & open source UI components**
+- 🌱 Learning: **TypeScript, Next.js App Router**
+- 💬 Ask me about: **React, CSS, UI/UX, web performance**
+- ⚡ Fun fact: I debug CSS for fun
 
 ---
 
+<!-- Tech Stack -->
+## 🛠 Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+---
+
+<!-- Projects -->
+## 📌 Featured Projects
+
+| 🎨 Project | 📝 Description | 🔧 Stack |
+|-----------|---------------|---------|
+| [**Portfolio Website**](#) | My personal portfolio showcasing projects, skills & contact | React, Tailwind, Framer Motion |
+| [**UI Component Library**](#) | Reusable, accessible components built with React + Storybook | React, Storybook, CSS Modules |
+| [**Project 3**](#) | Add your project description here | Your, Tech, Stack |
+
+> 💡 Replace the `#` links above with your actual repo URLs!
+
+---
+
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=keshavsspppp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsspppp&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=keshavsspppp&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+<!-- Contribution Snake -->
+## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+![snake gif](https://github.com/keshavsspppp/keshavsspppp/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚙️ To enable the snake animation, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` — [click here for the setup guide](https://github.com/Platane/snk)
 
 ---
 
-## 🤝 Connect With Me
+<!-- Connect -->
+## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-keshavsspppp-181717?style=for-the-badge&logo=github)](https://github.com/keshavsspppp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav_Prasad-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7F77DD?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D4537E?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Build. Learn. Repeat."
+![Profile Views](https://komarev.com/ghpvc/?username=keshavsspppp&color=7F77DD&style=flat-square&label=Profile+Views)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+*Thanks for visiting! Drop a ⭐ on something you like 😊*
 
 </div>
