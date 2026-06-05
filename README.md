@@ -1,50 +1,18 @@
-# Keshavsspppp
-================
+# 💫 About Me:
+## About Me :<br><br>🔭 I'm currently building full-stack web applications using React, Next.js, Node.js, and MongoDB<br><br>👯 I'm looking to collaborate on AI-powered applications and open-source projects<br><br>🤝 I'm looking for help with cloud deployment, microservices, and machine learning<br><br>🌱 I'm currently learning Advanced Next.js, AWS, and AI Engineering<br><br>💬 Ask me about MERN Stack, DSA, Competitive Programming, and Web Development<br><br>⚡ Fun fact: I enjoy building projects that solve real-world problems and enhance user experience.
 
-## About Me
-------------
 
-Hi, I'm Keshav, a passionate Engineer student from Raipur. I'm excited to share my projects and experiences with the developer community.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=keshavsspppp&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=keshavsspppp&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=keshavsspppp&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Tech Stack
--------------
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=keshavsspppp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-* Programming Languages: JavaScript, TypeScript, Python, Java, C++, HTML, CSS, Solidity
-* Development Tools: Jupyter Notebook, Visual Studio Code
-* Frameworks/Libraries: None
+---
+[![](https://komarev.com/ghpvc/?username=keshavsspppp&icon=2&color=5)](https://visitcount.itsvg.in)
 
-## Projects
-----------
-
-### Personal Projects
-
-* [Keshavsspppp](https://github.com/Keshavsspppp/Keshavsspppp): A personal project repository.
-* [MLLearning](https://github.com/Keshavsspppp/MLLearning): A machine learning project using Jupyter Notebook.
-* [HBDKavya](https://github.com/Keshavsspppp/HBDKavya): A project for learning HTML and CSS.
-
-### Other Projects
-
-* [threeD](https://github.com/Keshavsspppp/threeD): A JavaScript project for creating 3D graphics.
-* [RemApp](https://github.com/Keshavsspppp/RemApp): A Python project for remote application development.
-* [systummManage](https://github.com/Keshavsspppp/systummManage): A TypeScript project for system management.
-* [forage-midas](https://github.com/Keshavsspppp/forage-midas): A project repository for the JPMC Advanced Software Engineering Forage program.
-* [Compiler-Design-](https://github.com/Keshavsspppp/Compiler-Design-): A C++ project for compiler design.
-* [DSAsolving](https://github.com/Keshavsspppp/DSAsolving): A C++ project for solving data structures and algorithms.
-* [MLProjects](https://github.com/Keshavsspppp/MLProjects): A Jupyter Notebook project for machine learning.
-* [html-Learning](https://github.com/Keshavsspppp/html-Learning): A project for learning HTML and CSS.
-* [ABEcrypto](https://github.com/Keshavsspppp/ABEcrypto): A JavaScript project for cryptographic applications.
-* [Finanace-managment-app](https://github.com/Keshavsspppp/Finanace-managment-app): A project for finance management application development.
-* [Distributed_Lock_Counter](https://github.com/Keshavsspppp/Distributed_Lock_Counter): A project for distributed lock counter development.
-* [financeMan](https://github.com/Keshavsspppp/financeMan): A TypeScript project for finance management.
-* [Amazon-HTML-CSS](https://github.com/Keshavsspppp/Amazon-HTML-CSS): A project for learning HTML and CSS using Amazon as a reference.
-* [Image-Editor](https://github.com/Keshavsspppp/Image-Editor): A CSS project for image editing.
-* [imagekitad](https://github.com/Keshavsspppp/imagekitad): A TypeScript project for image kit development.
-
-## Contact
-----------
-
-If you have any questions or would like to collaborate on a project, please feel free to reach out to me at [your email address]. I'm always excited to connect with fellow developers and learn from their experiences.
-
-### Follow me on GitHub
-
-[![GitHub followers](https://img.shields.io/github/followers/Keshavsspppp.svg?style=social&label=Follow)](https://github.com/Keshavsspppp)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
