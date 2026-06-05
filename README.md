@@ -77,18 +77,31 @@ When I'm not pushing pixels, I'm probably exploring new frameworks or contributi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=keshavsspppp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsspppp&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keshavsspppp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Keshavsspppp&theme=tokyonight&hide_border=true" />
 
 </div>
+
+<br>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keshavsspppp&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavsspppp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keshavsspppp&theme=tokyonight" />
+
+</div>
 ---
+## 📈 Contribution Graph
+
+[![Keshav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keshavsspppp&theme=tokyo-night&hide_border=true)](https://github.com/Keshavsspppp)
 
 <!-- Contribution Snake -->
 ## 🐍 Contribution Graph
