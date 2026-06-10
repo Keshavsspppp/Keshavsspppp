@@ -122,8 +122,6 @@ When I'm not pushing pixels, I'm probably exploring new frameworks or contributi
 
 </div>
 
-> ⚙️ To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — [click here for the setup guide](https://github.com/Platane/snk)
 
 ---
 
