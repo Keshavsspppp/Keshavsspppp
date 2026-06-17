@@ -66,17 +66,6 @@ When I'm not pushing pixels, I'm probably exploring new frameworks or contributi
 </p>
 ---
 
-<!-- Projects -->
-## 📌 Featured Projects
-
-| 🎨 Project | 📝 Description | 🔧 Stack |
-|-----------|---------------|---------|
-| [**Portfolio Website**](#) | My personal portfolio showcasing projects, skills & contact | React, Tailwind, Framer Motion |
-| [**UI Component Library**](#) | Reusable, accessible components built with React + Storybook | React, Storybook, CSS Modules |
-| [**Project 3**](#) | Add your project description here | Your, Tech, Stack |
-
-> 💡 Replace the `#` links above with your actual repo URLs!
-
 ---
 
 ## 📊 GitHub Stats
