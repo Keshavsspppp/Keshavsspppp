@@ -123,8 +123,8 @@ I like picking apart how things work and rebuilding them my own way — one repo
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Keshavsspppp-181717?style=for-the-badge&logo=github)](https://github.com/Keshavsspppp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_your_link-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/keshavprasad-ai/))
-[![Email](https://img.shields.io/badge/Email-Add_your_email-D4537E?style=for-the-badge&logo=gmail)](mailto:keshavssp04@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/keshavprasad-ai/-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/keshavprasad-ai/))
+[![Email](https://img.shields.io/badge/keshavssp04@email.com-D4537E?style=for-the-badge&logo=gmail)](mailto:keshavssp04@email.com)
 
 </div>
 
