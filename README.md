@@ -3,9 +3,9 @@
 
 # Hey, I'm Keshav Prasad 👋
 
-### Engineering Student · Building, Breaking, and Learning 🚀
+### Full Stack Developer · Building production-grade web systems 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Engineer+in+the+making+🎓;JS+%7C+TS+%7C+Python+%7C+C%2B%2B+%7C+Solidity+⚡;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;Currently+SDE+Intern+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,8 @@
 <!-- Badges -->
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/⚡_Open_to_Work-7F77DD?style=for-the-badge&logoColor=white)
-![Always Learning](https://img.shields.io/badge/🌱_Always_Learning-1D9E75?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/⚡_Open_to_SDE_Roles-7F77DD?style=for-the-badge&logoColor=white)
+![Full Stack](https://img.shields.io/badge/💻_Full_Stack_Dev-1D9E75?style=for-the-badge&logoColor=white)
 ![Based in Raipur](https://img.shields.io/badge/📍_Raipur-D4537E?style=for-the-badge&logoColor=white)
 ![Chai Powered](https://img.shields.io/badge/☕_Chai_Powered-BA7517?style=for-the-badge&logoColor=white)
 
@@ -23,30 +23,39 @@
 
 ---
 
-<!-- About -->
 ## 🙋‍♂️ About Me
 
-I'm an **Engineering student** from Raipur, exploring everything from web development to machine learning, cryptography, and distributed systems.
-I like picking apart how things work and rebuilding them my own way — one repo at a time. 🚀
+I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently interning as a **Full Stack Developer at Elevance Skills**, working on the Internarea platform. I build production-minded systems — concurrency-safe, well-tested, and designed to hold up under real load — and I'm actively targeting **SDE roles at quick-commerce and product-based companies**.
 
-- 🔭 Currently working on: **financeMan** & other personal projects
-- 🌱 Learning: **Machine Learning, Cryptography, System Design**
-- 💬 Ask me about: **JavaScript/TypeScript, Python, C++, DSA**
-- ⚡ Fun fact: I have 28 repos and counting
+- 💼 Interning as a Full Stack Developer @ Elevance Skills (Internarea)
+- 🎯 Targeting SDE internships/roles — quick-commerce (Swiggy, Zomato, Zepto, Blinkit) & product companies
+- 🏆 1st place, StatHack (IIT Goa)
+- 🧠 Competitive programmer — Codeforces, LeetCode, CodeChef
+- 🔭 Currently building: **assetFlow** — a conflict-safe asset management ERP
+- 💬 Ask me about: Next.js, System Design, Distributed Systems, DSA
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,solidity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
 </p>
 
 ---
@@ -55,14 +64,11 @@ I like picking apart how things work and rebuilding them my own way — one repo
 
 | Project | Description |
 |---|---|
-| [financeMan](https://github.com/Keshavsspppp/financeMan) | TypeScript-based finance management app |
-| [ABEcrypto](https://github.com/Keshavsspppp/ABEcrypto) | JavaScript cryptographic applications |
-| [MLLearning](https://github.com/Keshavsspppp/MLLearning) | Machine learning experiments in Jupyter Notebook |
-| [Compiler-Design-](https://github.com/Keshavsspppp/Compiler-Design-) | Compiler design project in C++ |
-| [DSAsolving](https://github.com/Keshavsspppp/DSAsolving) | Data structures & algorithms practice in C++ |
-| [Distributed_Lock_Counter](https://github.com/Keshavsspppp/Distributed_Lock_Counter) | Distributed lock counter implementation |
-| [Image-Editor](https://github.com/Keshavsspppp/Image-Editor) | Browser-based image editor |
-| [forage-midas](https://github.com/Keshavsspppp/forage-midas) | JPMC Advanced Software Engineering Forage program |
+| [darkstore-allocation-engine](https://github.com/Keshavsspppp/darkstore-allocation-engine) | Quick-commerce order allocation engine — geospatial querying with MongoDB 2dsphere indexing, atomic concurrency-safe inventory reservation |
+| [assetFlow](https://github.com/Keshavsspppp) | Conflict-safe asset management ERP built with Next.js, Cloudflare D1, and the OpenAI Apps SDK, with RBAC and full audit trails |
+| [Trackerr](https://github.com/Keshavsspppp/Trackerr) | Full-stack tracking app — Next.js 15, MongoDB, NextAuth, Dockerized with CI/CD |
+| [Internshala-Clone](https://github.com/Keshavsspppp/Internshala-Clone) | Full internship platform clone — Next.js, Express, MongoDB, Firebase, Razorpay integration |
+| [AI-Interviewer](https://github.com/Keshavsspppp/AI-Interviewer) | Real-time voice/video mock interview app using Groq API, Web Speech API, and RecordRTC |
 
 ---
 
