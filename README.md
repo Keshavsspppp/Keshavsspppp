@@ -5,7 +5,7 @@
 
 ### Full Stack Developer · Building production-grade web systems 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;Currently+SDE+Intern+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Intern+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;SDE+Intern+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,88 +36,62 @@ I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently 
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
 | [darkstore-allocation-engine](https://github.com/Keshavsspppp/darkstore-allocation-engine) | Quick-commerce order allocation engine — geospatial querying with MongoDB 2dsphere indexing, atomic concurrency-safe inventory reservation |
-| [assetFlow](https://github.com/Keshavsspppp) | Conflict-safe asset management ERP built with Next.js, Cloudflare D1, and the OpenAI Apps SDK, with RBAC and full audit trails |
+| [assetFlow](https://github.com/Keshavsspppp/assetFlow) | Conflict-safe asset management ERP built with Next.js, Cloudflare D1, and the OpenAI Apps SDK, with RBAC and full audit trails |
 | [Trackerr](https://github.com/Keshavsspppp/Trackerr) | Full-stack tracking app — Next.js 15, MongoDB, NextAuth, Dockerized with CI/CD |
 | [Internshala-Clone](https://github.com/Keshavsspppp/Internshala-Clone) | Full internship platform clone — Next.js, Express, MongoDB, Firebase, Razorpay integration |
 | [AI-Interviewer](https://github.com/Keshavsspppp/AI-Interviewer) | Real-time voice/video mock interview app using Groq API, Web Speech API, and RecordRTC |
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<div align="center">
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="JavaScript, TypeScript, Python, C++, HTML, CSS icons" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Keshavsspppp&theme=tokyonight&hide_border=true" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" alt="React, Next.js, Redux, Tailwind CSS icons" />
+</p>
 
-</div>
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" alt="Node.js, Express, MongoDB, PostgreSQL, Redis, Firebase icons" />
+</p>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keshavsspppp&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keshavsspppp&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keshavsspppp&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keshavsspppp&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keshavsspppp&theme=tokyonight&utcOffset=5.5" />
-
-</div>
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" alt="Git, GitHub, Docker, Vercel, VS Code, Postman icons" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Keshavsspppp&theme=tokyonight&hide_border=true" alt="Keshav's GitHub streak stats" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 [![Keshav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Keshavsspppp&theme=tokyo-night&hide_border=true)](https://github.com/Keshavsspppp)
+
+</div>
 
 <!-- Contribution Snake -->
 <div align="center">
 
-![snake gif](https://github.com/keshavsspppp/keshavsspppp/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake animation](https://github.com/keshavsspppp/keshavsspppp/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
