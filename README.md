@@ -3,9 +3,9 @@
 
 # Hey, I'm Keshav Prasad 👋
 
-### Full Stack Developer · Building production-grade web systems 🚀
+### Full Stack Developer · SDE Aspirant · Building production-grade systems 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;Currently+SDE+Intern+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=460&lines=Full+Stack+Developer+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;Actively+Interviewing+for+SDE+Roles+🎯;Currently+Interning+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 <!-- Badges -->
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/⚡_Open_to_SDE_Roles-7F77DD?style=for-the-badge&logoColor=white)
+![Actively Interviewing](https://img.shields.io/badge/🎯_Actively_Interviewing-7F77DD?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/💻_Full_Stack_Dev-1D9E75?style=for-the-badge&logoColor=white)
 ![Based in Raipur](https://img.shields.io/badge/📍_Raipur-D4537E?style=for-the-badge&logoColor=white)
 ![Chai Powered](https://img.shields.io/badge/☕_Chai_Powered-BA7517?style=for-the-badge&logoColor=white)
@@ -25,14 +25,14 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently interning as a **Full Stack Developer at Elevance Skills**, working on the Internarea platform. I build production-minded systems — concurrency-safe, well-tested, and designed to hold up under real load — and I'm actively targeting **SDE roles at quick-commerce and product-based companies**.
+I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently interning as a **Full Stack Developer at Elevance Skills**, working on the Internarea platform. I like building systems that hold up under real load — concurrency-safe backends, clean APIs, and interfaces that don't fall apart in production. Right now I'm interviewing for **SDE roles at quick-commerce and product-based companies**.
 
-- 💼 Interning as a Full Stack Developer @ Elevance Skills (Internarea)
-- 🎯 Targeting SDE internships/roles — quick-commerce (Swiggy, Zomato, Zepto, Blinkit) & product companies
+- 💼 Full Stack Developer Intern @ Elevance Skills (Internarea)
+- 🎯 Interviewing for SDE roles — quick-commerce (Swiggy, Zomato, Zepto, Blinkit) & product companies
 - 🏆 1st place, StatHack (IIT Goa)
 - 🧠 Competitive programmer — Codeforces, LeetCode, CodeChef
-- 🔭 Currently building: **assetFlow** — a conflict-safe asset management ERP
-- 💬 Ask me about: Next.js, System Design, Distributed Systems, DSA
+- 🔭 Currently building: **assetFlow** — a conflict-safe asset management ERP with full audit trails
+- 💬 Ask me about: System Design, Distributed Systems, DSA, Next.js
 
 ---
 
@@ -64,11 +64,11 @@ I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently 
 
 | Project | Description |
 |---|---|
-| [darkstore-allocation-engine](https://github.com/Keshavsspppp/darkstore-allocation-engine) | Quick-commerce order allocation engine — geospatial querying with MongoDB 2dsphere indexing, atomic concurrency-safe inventory reservation |
-| [assetFlow](https://github.com/Keshavsspppp) | Conflict-safe asset management ERP built with Next.js, Cloudflare D1, and the OpenAI Apps SDK, with RBAC and full audit trails |
-| [Trackerr](https://github.com/Keshavsspppp/Trackerr) | Full-stack tracking app — Next.js 15, MongoDB, NextAuth, Dockerized with CI/CD |
-| [Internshala-Clone](https://github.com/Keshavsspppp/Internshala-Clone) | Full internship platform clone — Next.js, Express, MongoDB, Firebase, Razorpay integration |
-| [AI-Interviewer](https://github.com/Keshavsspppp/AI-Interviewer) | Real-time voice/video mock interview app using Groq API, Web Speech API, and RecordRTC |
+| [darkstore-allocation-engine](https://github.com/Keshavsspppp/darkstore-allocation-engine) | Quick-commerce order allocation engine — geospatial queries via MongoDB 2dsphere indexing, atomic concurrency-safe inventory reservation, Redis caching |
+| [assetFlow](https://github.com/Keshavsspppp) | Conflict-safe asset management ERP — Next.js, Cloudflare D1, RBAC, and full audit trails |
+| [Trackerr](https://github.com/Keshavsspppp/Trackerr) | Job application tracker — Next.js 15, MongoDB, NextAuth, Dockerized with a CI/CD pipeline |
+| [Internshala-Clone](https://github.com/Keshavsspppp/Internshala-Clone) | Full internship platform clone — Next.js, Express, MongoDB, Firebase, Razorpay payments |
+| [AI-Interviewer](https://github.com/Keshavsspppp/AI-Interviewer) | Real-time voice/video mock interview app — Groq API, Web Speech API, RecordRTC |
 
 ---
 
@@ -130,7 +130,7 @@ I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Keshavsspppp-181717?style=for-the-badge&logo=github)](https://github.com/Keshavsspppp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav%20Prasad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshavprasad-ai/)
-[![Email](https://img.shields.io/badge/keshavssp04@email.com-D4537E?style=for-the-badge&logo=gmail)](mailto:keshavssp04@email.com)
+[![Email](https://img.shields.io/badge/keshavssp04%40email.com-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavssp04@email.com)
 
 </div>
 
