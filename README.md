@@ -5,7 +5,7 @@
 
 ### Full Stack Developer · SDE Aspirant · Building production-grade systems 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=460&lines=Full+Stack+Developer+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;Actively+Interviewing+for+SDE+Roles+🎯;Currently+Interning+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=460&lines=Full+Stack+Developer+💻;Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+⚡;Actively+Interviewing+for+SDE+Roles+🎯;Ex-Intern+@+Elevance+Skills+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,8 @@
 <!-- Badges -->
 <div align="center">
 
-![Actively Interviewing](https://img.shields.io/badge/🎯_Actively_Interviewing-7F77DD?style=for-the-badge&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/💻_Full_Stack_Dev-1D9E75?style=for-the-badge&logoColor=white)
 ![Based in Raipur](https://img.shields.io/badge/📍_Raipur-D4537E?style=for-the-badge&logoColor=white)
-![Chai Powered](https://img.shields.io/badge/☕_Chai_Powered-BA7517?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -25,10 +23,10 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027), currently interning as a **Full Stack Developer at Elevance Skills**, working on the Internarea platform. I like building systems that hold up under real load — concurrency-safe backends, clean APIs, and interfaces that don't fall apart in production. Right now I'm interviewing for **SDE roles at quick-commerce and product-based companies**.
+I'm a Computer Science undergrad at IIIT Naya Raipur (Class of 2027). I previously interned as a **Full Stack Developer at Elevance Skills**, working on the Internarea platform, and I like building systems that hold up under real load — concurrency-safe backends, clean APIs, and interfaces that don't fall apart in production. I'm currently interviewing for **Full Stack Developer / SDE roles** as part of campus placements.
 
-- 💼 Full Stack Developer Intern @ Elevance Skills (Internarea)
-- 🎯 Interviewing for SDE roles — quick-commerce (Swiggy, Zomato, Zepto, Blinkit) & product companies
+- 💼 Ex-Intern, Full Stack Developer @ Elevance Skills (Internarea)
+- 🎯 Actively interviewing for Full Stack Developer / SDE roles — campus placements 2026
 - 🏆 1st place, StatHack (IIT Goa)
 - 🧠 Competitive programmer — Codeforces, LeetCode, CodeChef
 - 🔭 Currently building: **assetFlow** — a conflict-safe asset management ERP with full audit trails
