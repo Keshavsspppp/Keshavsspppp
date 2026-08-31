@@ -149,8 +149,8 @@ C++ is my contest language. Regular practice is where the instinct for edge case
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Keshavsspppp&show_icons=true&theme=tokyonight&hide_border=true&hide=issues" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavsspppp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="150" src="./profile/stats.svg" alt="Keshav's GitHub stats" />
+<img height="150" src="./profile/top-langs.svg" alt="Keshav's most used languages" />
 
 </div>
 
