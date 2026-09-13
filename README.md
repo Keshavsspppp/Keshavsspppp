@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavprasad-ai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavssp04@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1748-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vCtAUvUZ5B/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vCtAUvUZ5B/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1207_Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/keshavssp04)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1669-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/keshavssp04)
 
